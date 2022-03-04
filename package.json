@@ -1,6 +1,6 @@
 {
   "name": "misdocos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line utility for notes.",
   "main": "api.js",
   "bin": {
