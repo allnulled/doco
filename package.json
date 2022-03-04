@@ -1,7 +1,7 @@
 {
   "name": "misdocos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Command line utility for notes.",
   "main": "api.js",
   "bin": {
     "docadd": "docadd.js",
@@ -16,5 +16,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/doco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allnulled/doco/issues"
+  },
+  "homepage": "https://github.com/allnulled/doco#readme"
 }
