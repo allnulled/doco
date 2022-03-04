@@ -1,0 +1,20 @@
+{
+  "name": "doco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "bin": {
+    "docadd": "docadd.js",
+    "docdelete": "docdelete.js",
+    "docsearch": "docsearch.js",
+    "doclist": "doclist.js",
+    "docfind": "docfind.js",
+    "docopen": "docopen.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL"
+}
