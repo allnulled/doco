@@ -18,7 +18,7 @@ try {
     files.map(file => {
         return  {
             file,
-            contents: wrapTitle(file, baseDir) + fs.readFileSync(file).toString()
+            contents: fs.readFileSync(file).toString()
         };
     }).forEach(fileMetadata => {
         const { file, contents } = fileMetadata;
